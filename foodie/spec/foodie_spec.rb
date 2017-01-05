@@ -1,4 +1,4 @@
-require_relative 'foodie'
+require "spec_helper"
 
 describe Foodie do
   it "has a version number" do
